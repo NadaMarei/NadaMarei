@@ -35,7 +35,7 @@
 
 ## Statistics:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NadaMarei&show_icons=true&theme=radical&locale=en&layout=compact" alt="NadaMarei" /></p>
-<br>
+<br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NadaMarei&show_icons=true&theme=radical&locale=en" alt="NadaMarei" /></p>
-<br>
+<br><br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NadaMarei&theme=dark" alt="NadaMarei" /></p>
