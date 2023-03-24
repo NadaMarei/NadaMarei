@@ -8,7 +8,7 @@
 <div align="center" target="_blank">
   <img src="https://img.shields.io/github/followers/NadaMarei?style=social">
   <a href="https://www.youtube.com/c/nadamarey6519" target="_blank">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCJwz2EnwqQufIifGOtrgJPQ?style=social">	
+  <img src="https://img.shields.io/youtube/channel/subscribers/UCJwz2EnwqQufIifGOtrgJPQ?style=social">	
   </a>
 </div>
 </p>
