@@ -13,7 +13,7 @@
 </div>
 </p>
 
-<p>DevOps Engineer ☁️ currently learning To be proficient in developing Continuous Integration/ Delivery pipelines, Gain experience with automation/ integration tools like Jenkins. Good hands-on knowledge of Source Code Management (Version Control System) tools like Git.</p>
+<p>DevOps Engineer ☁️ currently learning To be proficient in developing Continuous Integration/ Delivery pipelines, Gain experience with automation/ integration tools like Jenkins. Good hands-on knowledge of Source Code Management tools like Git.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NadaMarei&label=Profile%20views&color=0e75b6&style=flat" alt="0x70ssAM"/> </p>
 
 ## 💫 About Me:
