@@ -19,6 +19,7 @@
 ## 💫 About Me:
 - 🌱 I’m currently learning **DevOps | Cloud computing | Full Stack Development**
 - 🔭 I’m currently training at the [Information Technology Institute (ITI)](https://www.iti.gov.eg/iti/home)
+- smile AWS Certified Cloud Practitioner.
 - ⚡ I enjoy coding, drawing.
 
 
