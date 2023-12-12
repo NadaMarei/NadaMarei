@@ -17,10 +17,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NadaMarei&label=Profile%20views&color=0e75b6&style=flat" alt="0x70ssAM"/> </p>
 
 ## 💫 About Me:
-- 🌱 I’m currently learning **DevOps | Cloud computing | Full Stack Development**
-- 🔭 I’m currently training at the [Information Technology Institute (ITI)](https://www.iti.gov.eg/iti/home)
+- 🌱 I’m currently working as **DevOps Engineer| Cloud platform developer | Full Stack Developer**
+- 🔭 I’m an alumni of the [Information Technology Institute (ITI)](https://www.iti.gov.eg/iti/home)
 - :shield: AWS Certified Cloud Practitioner.
-- ⚡ I enjoy coding, drawing.
+- ⚡ I enjoy coding, and designing.
 
 
 
